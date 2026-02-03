@@ -4,13 +4,21 @@
     "date": "2026年2月14日 14:00開演",
     "venue": "日暮里サニーホール",
     "price": "2,000円",
-    "detail_url": "https://cplan-web.off.geidai.ac.jp/portal/Account/Login?ReturnUrl=%2Fportal%2F",
     "playback_url": "https://stream.mux.com/P9WuOnw8ZBnPADGI00grieyfDbuuCvskVNx2ASVacy2w",
     "order": 1,
     "is_published": true,
     "cta_url": "https://teket.jp/",
-    "cta_text": "チケット購入"
-  },
+    "cta_text": "チケット購入",
+    "blurb": "",
+    "highlights": [
+      "アンサンブル",
+      "和声",
+      "表現"
+    ]
+    "program": "bach bwv3453241"
+    "notes": "未就学児不可／当日券あり"
+    },
+  
   {
     "title": "合唱団FreieKunst第2回公演",
     "date": "2026年2月14日 14:00開演",
