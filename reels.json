@@ -20,7 +20,7 @@
     "price": "2,000円",
     "detail_url": "https://cplan-web.off.geidai.ac.jp/portal/Account/Login?ReturnUrl=%2Fportal%2F",
     "playback_url": "https://stream.mux.com/P9WuOnw8ZBnPADGI00grieyfDbuuCvskVNx2ASVacy2w",
-    "order": 1,
+    "order": 2,
     "is_published": true,
     "cta_url": "https://teket.jp/",
     "cta_text": "チケット購入"
@@ -34,7 +34,7 @@
     "price": "2,000円",
     "detail_url": "https://cplan-web.off.geidai.ac.jp/portal/Account/Login?ReturnUrl=%2Fportal%2F",
     "playback_url": "https://stream.mux.com/P9WuOnw8ZBnPADGI00grieyfDbuuCvskVNx2ASVacy2w",
-    "order": 1,
+    "order": 3,
     "is_published": true,
     "cta_url": "https://teket.jp/",
     "cta_text": "チケット購入"
@@ -48,7 +48,7 @@
     "price": "2,000円",
     "detail_url": "https://cplan-web.off.geidai.ac.jp/portal/Account/Login?ReturnUrl=%2Fportal%2F",
     "playback_url": "https://stream.mux.com/P9WuOnw8ZBnPADGI00grieyfDbuuCvskVNx2ASVacy2w",
-    "order": 1,
+    "order": 4,
     "is_published": true,
     "cta_url": "https://teket.jp/",
     "cta_text": "チケット購入"
@@ -62,7 +62,7 @@
     "price": "2,000円",
     "detail_url": "https://cplan-web.off.geidai.ac.jp/portal/Account/Login?ReturnUrl=%2Fportal%2F",
     "playback_url": "https://stream.mux.com/P9WuOnw8ZBnPADGI00grieyfDbuuCvskVNx2ASVacy2w",
-    "order": 1,
+    "order": 5,
     "is_published": true,
     "cta_url": "https://teket.jp/",
     "cta_text": "チケット購入"
