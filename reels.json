@@ -1,0 +1,14 @@
+[
+  {
+    "playback_id": "ここにMuxのID",
+    "title": "コンサートタイトル",
+    "date": "2026/03/01",
+    "venue": "会場名",
+    "price": "¥2,000",
+    "detail_url": "https://example.com/detail",
+    "cta_url": "https://teket.jp/xxxx",
+    "cta_text": "チケット購入",
+    "order": 1,
+    "is_published": true
+  }
+]
